@@ -1,0 +1,10 @@
+dichvu-nâng cao-dulich-phát triển-cao
+dichvu-nâng cao-dulich-ổn định-dautu-mở rộng-cao
+dichvu-nâng cao-dulich-ổn định-dautu-thu hẹp-chitieucong-giảm-cao
+dichvu-đảm bảo-dulich-phát triển-dautu-mở rộng-cao
+dichvu-nâng cao-dulich-kém pt-chitieucong-tăng-thấp
+dichvu-đảm bảo-dulich-ổn định-chitieucong-tăng-thấp
+dichvu-đảm bảo-dulich-kém pt-thấp
+dichvu-kém-dulich-phát triển-chitieucong-tăng-thấp
+dichvu-kém-dulich-ổn định-thấp
+dichvu-kém-dulich-kém pt-thấp

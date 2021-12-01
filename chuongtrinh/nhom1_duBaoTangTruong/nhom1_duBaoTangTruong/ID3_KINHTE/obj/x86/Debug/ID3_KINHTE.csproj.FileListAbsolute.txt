@@ -1,0 +1,107 @@
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\bin\Debug\ID3_BANKING.exe.config
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.exe
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.pdb
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\bin\Debug\ID3_BANKING.exe
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\bin\Debug\ID3_BANKING.pdb
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csprojResolveAssemblyReference.cache
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Form1.resources
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmID3.resources
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmLamSachData.resources
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmUngDung.resources
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Properties.Resources.resources
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.wfimport_data.resources
+E:\UNG_DUNG\ID3 DU BAO KINH TE\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.GenerateResource.Cache
+D:\DEMO ID3\ID3_KINHTE\bin\Debug\ID3_BANKING.exe.config
+D:\DEMO ID3\ID3_KINHTE\bin\Debug\ID3_BANKING.exe
+D:\DEMO ID3\ID3_KINHTE\bin\Debug\ID3_BANKING.pdb
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csprojAssemblyReference.cache
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Form1.resources
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmID3.resources
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmLamSachData.resources
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmUngDung.resources
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Properties.Resources.resources
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.wfimport_data.resources
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.GenerateResource.cache
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CoreCompileInputs.cache
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.exe
+D:\DEMO ID3\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.pdb
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe.config
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.pdb
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csprojAssemblyReference.cache
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Form1.resources
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmID3.resources
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmLamSachData.resources
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmUngDung.resources
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Properties.Resources.resources
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.wfimport_data.resources
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.GenerateResource.cache
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CoreCompileInputs.cache
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.exe
+D:\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.pdb
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe.config
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.pdb
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csprojAssemblyReference.cache
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Form1.resources
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmID3.resources
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmLamSachData.resources
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmUngDung.resources
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Properties.Resources.resources
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.wfimport_data.resources
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.GenerateResource.cache
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CoreCompileInputs.cache
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.exe
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.pdb
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.ResolveComReference.cache
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.dll
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.dll
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.pdb
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.xml
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.xml
+D:\codenam3\hcg\nhom_21_duBaoTangTruong\nhom_21_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CopyComplete
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe.config
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.pdb
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.dll
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.dll
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.pdb
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.xml
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.xml
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csprojAssemblyReference.cache
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.ResolveComReference.cache
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Form1.resources
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmID3.resources
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmLamSachData.resources
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmUngDung.resources
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Properties.Resources.resources
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.wfimport_data.resources
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.GenerateResource.cache
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CoreCompileInputs.cache
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CopyComplete
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.exe
+D:\codenam3\hcg\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.pdb
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe.config
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.exe
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ID3_BANKING.pdb
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.dll
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.dll
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.pdb
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.xml
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\bin\Debug\ExcelDataReader.DataSet.xml
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csprojAssemblyReference.cache
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.ResolveComReference.cache
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Form1.resources
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmID3.resources
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmLamSachData.resources
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.frmUngDung.resources
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.Properties.Resources.resources
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.wfimport_data.resources
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.GenerateResource.cache
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CoreCompileInputs.cache
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_KINHTE.csproj.CopyComplete
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.exe
+D:\codenam3\hcg\nhom1_dubaotangtruongkinhte\chuongtrinh\nhom1_duBaoTangTruong\nhom1_duBaoTangTruong\ID3_KINHTE\obj\x86\Debug\ID3_BANKING.pdb

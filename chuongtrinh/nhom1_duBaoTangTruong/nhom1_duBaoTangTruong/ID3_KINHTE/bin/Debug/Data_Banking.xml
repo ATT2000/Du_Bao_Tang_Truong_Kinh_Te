@@ -1,0 +1,803 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>dương</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>âm</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>mở rộng</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>ổn định</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>đảm bảo</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>tăng</chitieucong>
+    <dulich>kém pt</dulich>
+    <dichvu>kém</dichvu>
+    <dubao>thấp</dubao>
+  </Banking>
+  <Banking>
+    <chisoxnk>cân băng</chisoxnk>
+    <dautu>thu hẹp</dautu>
+    <chitieucong>giảm</chitieucong>
+    <dulich>phát triển</dulich>
+    <dichvu>nâng cao</dichvu>
+    <dubao>cao</dubao>
+  </Banking>
+</NewDataSet>
